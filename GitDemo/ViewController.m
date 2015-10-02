@@ -22,6 +22,9 @@
     int b = 0;
     int sum = a+b;
     sum++;
+    
+    int dec = a- b;
+    dec--;
 }
 
 - (void)didReceiveMemoryWarning {
